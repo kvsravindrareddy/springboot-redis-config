@@ -1,0 +1,7 @@
+server:
+  port: 9009
+
+app:
+  redis:
+    host: localhost
+    port: 6379
